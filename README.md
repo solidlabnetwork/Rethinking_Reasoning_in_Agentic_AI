@@ -1,4 +1,4 @@
-# Rethinking Reasoning for Next-Generation Agentic AI
+# Don’t Overthink, Don’t Underthink: Toward Adaptive Reasoning in Agentic AI
 
 This framework benchmarks autonomous LLM agents by analyzing reasoning behavior, tool usage, latency, token consumption, and task performance across multiple foundation models.
 
